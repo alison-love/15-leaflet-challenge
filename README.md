@@ -9,7 +9,7 @@ The Earthquake and Tectonic Plate Visualization project uses Leaflet, a JavaScri
 ## Demo
 
 You can see the finished project here:
-<br> (https://alison-love.github.io/15-leaflet-challenge/)
+<br> https://alison-love.github.io/15-leaflet-challenge/
 
 ## Installation
 
